@@ -2,7 +2,7 @@
 
 A Web App to predict the onset of diabetes based on diagnostic measures. 
 
-App is deployed in Heroku, click the link to access it : [Open in Heroku](https://ToDeploy/)
+App is deployed in Heroku, click the link to access it : [Open in Heroku](https://diabetes-prediction-app-python.herokuapp.com/)
 
 
 ## Data
